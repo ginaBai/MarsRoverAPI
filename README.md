@@ -16,7 +16,8 @@ Please read through the description of the [Mars Rover API](https://github.com/g
 When finished, please follow the steps below:
 
 - Step 1: In Eclipse, right click on the file name "Task1_MarsRoverAPI" and select "Export"
-- Step 2: Select "Remote Systems > Remote file system" and click "Next"
+- Step 2: Select "Remote Systems > Remote file system" OR "General > File system"
+and click "Next"
 - Step 3: Check the Task1_MarsRoverAPI, including .classpath, .gitignore, .project, and click "Finish"
 - Step 4: Find this exported project, rename it as <EmailAddress_Task1> and compress it
 - Submit <EmailAddress_Task1>.zip via [Google Forms](https://go.ncsu.edu/testing_tdd_project)
