@@ -20,6 +20,6 @@ When finished, please follow the steps below:
 and click "Next"
 - Step 3: Check the Task1_MarsRoverAPI, including .classpath, .gitignore, .project, and click "Finish"
 - Step 4: Find this exported project, rename it as <EmailAddress_Task1> and compress it
-- Submit <EmailAddress_Task1>.zip via [TestingPerformanceStudy - Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScIr5u1g2MN_IgxQapZOuhAszypoJLr8tw5o9qBJ_dtUAygpw/viewform)
+- Submit <EmailAddress_Task1>.zip via Google Form
 
 Congratulations, you just finished Task 1! Now, let's implement some actual JUnit tests at [Task 2](https://github.com/ginaBai/BowlingScoreKeeper)!
